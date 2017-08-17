@@ -4,7 +4,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Lets build a currency converter app from scratch in react-native!</Text>
+        <Text>Lets build a currency converter app from scratch in React-native!</Text>
       </View>
     );
   }
