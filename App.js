@@ -1,11 +1,10 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-
 export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Lets build a currency converter app from scratch!</Text>
+        <Text>Lets build a currency converter app from scratch in react-native!</Text>
       </View>
     );
   }
