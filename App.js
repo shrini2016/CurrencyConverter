@@ -5,7 +5,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Lets build a currency converter app!</Text>
+        <Text>Lets build a currency converter app from scratch!</Text>
       </View>
     );
   }
